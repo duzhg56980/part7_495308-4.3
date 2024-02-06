@@ -1,0 +1,7 @@
+import org.apache.http.conn.scheme.Scheme;
+public class FunctionUse1884 {
+public void funcUse() {
+Scheme scheme = new Scheme();
+scheme.isLayered();
+}
+}
